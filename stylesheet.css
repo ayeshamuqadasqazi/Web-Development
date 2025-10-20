@@ -1,0 +1,172 @@
+            * {
+                margin: 0;
+                padding: 0%
+            }
+            
+            .forwelcome {
+                background-color: rgb(5, 104, 104);
+                color: white;
+                padding: 12px;
+                /* width: min(1120px, 92%); */
+                margin-top: 0;
+                height: 30px;
+                text-align: left;
+                /* padding-top: 50; */
+            }
+            
+            .innerdivs {
+                padding: 30px 20px;
+                text-decoration: none;
+                padding: 20px 10px;
+                box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+                transition: transform 0.3s, background 0.3s;
+                background-color: white;
+                color: black;
+                padding: 10px;
+                border-radius: 20px;
+                font-weight: bolder;
+                font-size: larger;
+                text-decoration: solid;
+            }
+            
+            .innerdivs span {
+                padding: 30px;
+                font-size: 14px;
+                font-weight: bold;
+                text-align: center;
+            }
+            
+            .outerdiv {
+                size-adjust: 15px;
+                gap: 16px;
+                padding: 70px;
+                display: grid;
+                grid-template-columns: repeat(6, minmax(100px, 1fr));
+            }
+            
+            .image {
+                width: 90px;
+                height: 90px;
+                gap: 10px
+                /* margin-right: 10px; */
+                border-radius: 10px;
+                padding: 0px
+            }
+            
+            .container {
+                background-color: #002147;
+                align-items: center;
+                justify-content: center;
+                /* Display: flex;
+                /* flex-direction: flex-start; */
+                /* display: grid;
+                grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));/* */
+                Gap: 20px;
+                Padding: 20px;
+                Text-align: center;
+            }
+            
+            h1 {
+                text-align: center;
+                color: white;
+                font-size: 30px;
+                display: flex;
+                font-weight: bold;
+                margin-left: 450px;
+                height: 1.5;
+            }
+            
+            .myimage {
+                border-radius: 100px;
+                height: 200px;
+                width: 200px;
+                margin-right: 600px;
+                /* border-image: round;
+                border-style: solid;
+                border-width: 5px;
+                border-color: rgb(6, 6, 66);
+                margin-right: px; */
+            }
+            
+            .innerdivs:hover {
+                transform: scale(1.05);
+            }
+            
+            .forcollegelogo {
+                display: inline-block;
+                margin-left: 570px;
+            }
+            
+            .forcollegelogo h1 {
+                margin-right: 600px;
+            }
+            
+            p {
+                text-align: left;
+                color: aliceblue;
+            }
+            
+            .neechaywali {
+                background-color: #002147;
+                height: 500px;
+            }
+            
+            .andarwali {
+                background-color: aliceblue;
+                height: 400px;
+                border-radius: 10px
+            }
+            
+            .forcolumnheading {
+                background-color: rgb(5, 104, 104);
+                height: 40px;
+                margin-left: 10px;
+                padding-top: 20px;
+                margin-right: 10px;
+            }
+            
+            .forcolumnname {
+                text-align: center;
+            }
+            
+            .table1 {
+                /* border-collapse: collapse; */
+                text-align: center;
+                color: black;
+                width: 1300px;
+                margin-left: 10px;
+                margin: inline-block;
+            }
+            
+            thead th {
+                background-color: #002147;
+                border: 1px solid black;
+                width: 1200px;
+                height: 50px;
+                color: antiquewhite;
+                /* padding-bottom: 10px;
+                margin-bottom: 10px; */
+            }
+            
+            .data {
+                border: 1px solid black;
+                height: 40px;
+                font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            }
+            
+            .forcolumnheading2 {
+                background-color: rgb(5, 104, 104);
+                ;
+                height: 40px;
+                margin-left: 10px;
+                padding-top: 20px;
+                margin-right: 10px;
+            }
+            
+            .forcolumnname2 {
+                text-align: center;
+            }
+            
+            h4 {
+                color: antiquewhite;
+            }
